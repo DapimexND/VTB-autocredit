@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Заявка на автокредит",
+  "name": "Анкета на автокредит ВТБ с заполнением данных о желаемом автомобиле",
   "icons": [
     {
       "src": "favicon.ico",

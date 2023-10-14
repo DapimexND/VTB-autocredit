@@ -1,16 +1,10 @@
 import React, { FC } from 'react';
 import logo from '../../shared/logos/vtblogo.svg';
+import './Header.css';
 
 export const Header: FC = () => (
   <header className="App-header">
     <img src={logo} alt="logo" />
-    <a
-      className="App-link"
-      href="https://reactjs.org"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      Learn React
-    </a>
+    <h4>Автокредит</h4>
   </header>
 );

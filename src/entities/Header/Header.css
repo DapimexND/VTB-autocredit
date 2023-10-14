@@ -1,7 +1,20 @@
 .App-header {
   display: flex;
   flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
+  align-items: flex-end;
+  padding: 1rem 2rem;
+  gap: 1rem;
   color: white;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+}
+
+.App-header img {
+  height: 16px;
+}
+
+.App-header h4 {
+  color: #0a2a73;
+  line-height: 13px;
+  font-size: 16px;
+  margin: 0;
 }
